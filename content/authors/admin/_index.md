@@ -1,77 +1,45 @@
 ---
-# Display name
 title: Yinan Wang
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Graduate Research Assitant
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Virginia Tech
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+avatar_filename: yinan_wang.jpg
+bio: My research interests include systematic engineering-driven machine
+  learning methodologies with applications to advanced manufacturing.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Advanced Manufacturing
+  - System Intelligence
+  - Machine Learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: yinanw@vt.edu
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?hl=en&user=-vfMhrEAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/wyn430
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/yinanwang430
+organizations:
+  - name: Virginia Tech
+    url: https://www.stanford.edu/
 education:
   courses:
-  - course: PhD in Industrial and Systems Engineering
-    institution: Virginia Tech
-    year: 2022 (Expected)
-  - course: Master in Electrical Engineering
-    institution: Columbia University
-    year: 2019
-  - course: Bachelor in Electrical Engineering and Automation
-    institution: Xi'an Jiaotong University
-    year: 2017
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Industrial and Systems Engineering
+      institution: Virginia Tech
+      year: ""
+    - course: Master in Electrical Engineering
+      institution: Columbia University
+      year: 2019
+    - course: Bachelor in Electrical Engineering and Automation
+      institution: Xi'an Jiaotong University
+      year: 2017
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yinan Wang is a Ph.D. candidate in the Grado Department of Industrial and Systems Engineering at Virginia Tech. He received the M.S. degree in electrical engineering from Columbia University in 2019, and the B.S. degree in electrical engineering and automation from Xi'an Jiaotong University in 2017. He is a recipient of the Gilbreth Memorial Fellowship from IISE, the Educational Foundation Scholarship from ISA, and Applied Machine Learning Summer Research Fellowship from LANL. His research works are recognized by three best paper awards, two best poster awards, and one featured paper. For example, the SPES + Q&P Best Student Paper Award from ASA, the Data Mining and Decision Analytics Best Theoretical Paper Award from INFORMS, the Finalist of QSR Best Student Paper Award from INFORMS, and the Best Poster Award from NAMRC/MSEC. He serves as a student board member of the QCRE division in IISE, and the president of the INFORMS student chapter at Virginia Tech.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
