@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yinan Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Research Assitant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Virginia Tech
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Industrial and Systems Engineering
+    institution: Virginia Tech
+    year: 2022 (Expected)
+  - course: Master in Electrical Engineering
+    institution: Columbia University
+    year: 2019
+  - course: Bachelor in Electrical Engineering and Automation
+    institution: Xi'an Jiaotong University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
