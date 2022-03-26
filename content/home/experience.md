@@ -21,23 +21,30 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:    
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
+experience:     
   - title: Graduate Research Assitant
     company: Virginia Tech
     company_url: ''
     company_logo: Horizontal_VT_Full_Color_RGB
     location: Virginia
     date_start: '2019-01-10'
-    date_end: '
+    date_end: ''
+    
+  - title: Summer Research Intern
+    company: Lawrence Livermore National Lab
+    company_url: ''
+    company_logo: Lawrence_Livermore_National_Laboratory_logo
+    location: CA
+    date_start: '2021-05-15'
+    date_end: '2021-08-09'
+    
+  - title: Summer Research Intern
+    company: Los Alamos National Lab
+    company_url: ''
+    company_logo: Los_Alamos_logo
+    location: NM
+    date_start: '2019-05-15'
+    date_end: '2019-08-09'
 
 design:
   columns: '2'
