@@ -13,7 +13,7 @@ authors:
   - M Giselle Fernández-Godino
   - Gowri Srinivasan
   - Xiaowei Yue
-doi: doi.org/10.1038/s41529-021-00151-y
+doi: 10.1038/s41529-021-00151-y
 publication: npj Materials Degradation
 abstract: Catastrophic failure in brittle materials is often due to the rapid
   growth and coalescence of cracks aided by high internal stresses. Hence,
