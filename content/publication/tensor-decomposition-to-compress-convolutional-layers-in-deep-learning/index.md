@@ -7,6 +7,7 @@ authors:
   - Weihong “Grace” Guo
   - Xiaowei Yue
 doi: doi.org/10.1080/24725854.2021.1894514
+publication: IISE Transactions
 abstract: "Feature extraction for tensor data serves as an important step in
   many tasks such as anomaly detection, process monitoring, image
   classification, and quality control. Although many methods have been proposed
