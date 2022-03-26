@@ -1,5 +1,8 @@
 ---
 title: Publications
+author: ["Yinan Wang"]
+draft: false
+title: Publications
 cms_exclude: true
 
 # View.
