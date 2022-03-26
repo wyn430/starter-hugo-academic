@@ -8,6 +8,7 @@ authors:
   - Kaiwen Wang
   - Wenjun Cai
   - Xiaowei Yue
+doi: 10.1080/24725854.2021.1891485
 publication: IISE Transactions
 abstract: "Finite Element Analysis (FEA) has been widely used to generate
   simulations of complex nonlinear systems. Despite its strength and accuracy,
