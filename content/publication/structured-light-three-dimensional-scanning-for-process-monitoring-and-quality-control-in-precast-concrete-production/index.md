@@ -2,7 +2,7 @@
 title: Structured-light three-dimensional scanning for process monitoring and
   quality control in precast concrete production.
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Rongxuan Wang
   - Yinan Wang
