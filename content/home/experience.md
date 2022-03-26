@@ -30,6 +30,14 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Graduate Research Assitant
+    company: Virginia Tech
+    company_url: ''
+    company_logo: Horizontal_VT_Full_Color_RGB
+    location: Virginia
+    date_start: '2019-01-10'
+    date_end: '
 
 design:
   columns: '2'
