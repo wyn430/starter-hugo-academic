@@ -4,10 +4,11 @@ title: Multiphysics modeling and uncertainty quantification of tribocorrosion in
 publication_types:
   - "2"
 authors:
-  - Yinan Wang
   - Kaiwen Wang
+  - Yinan Wang
   - Xiaowei Yue
   - Wenjun Cai
+doi: doi.org/10.1016/j.corsci.2020.109095
 publication: Corrosion Science
 abstract: Past research in tribocorrosion mainly relies on costly and
   trial-and-error experimental methods to study the materials’ deformation and
