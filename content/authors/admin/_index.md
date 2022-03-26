@@ -16,7 +16,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: yinanw@vt.edu
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=-vfMhrEAAAAJ
   - icon: github
@@ -24,7 +24,7 @@ social:
     link: https://github.com/wyn430
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/yinanwang430
+    link: https://www.linkedin.com/in/yinanwang430
 organizations:
   - name: Virginia Tech
     url: https://www.stanford.edu/
