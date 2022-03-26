@@ -1,7 +1,7 @@
 ---
 title: Yinan Wang
 role: Ph.D. Candidate
-avatar_filename: avator.jpg
+avatar_filename: avatar.jpg
 bio: Yinan Wang is a Ph.D. candidate in the Grado Department of Industrial and
   Systems Engineering at Virginia Tech. He received the M.S. degree in
   electrical engineering from Columbia University in 2019, and the B.S. degree
@@ -17,7 +17,7 @@ social:
     icon_pack: fas
     link: yinanw@vt.edu
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=-vfMhrEAAAAJ
   - icon: github
     icon_pack: fab
