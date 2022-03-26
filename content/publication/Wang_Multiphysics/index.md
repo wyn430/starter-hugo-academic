@@ -36,5 +36,5 @@ abstract: Catastrophic failure in brittle materials is often due to the rapid
   predictions of maximum internal stress in approximately 20 seconds, as
   compared to the FDEM run time of 4 h, with an average MAPE of 2% relative to
   test data.
-date: 2022-03-26T21:58:28.146Z
+date: 2021-02-10T23:03:00.000Z
 ---
