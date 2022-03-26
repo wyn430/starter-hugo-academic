@@ -25,7 +25,6 @@ experience:
   - title: Graduate Research Assitant
     company: Virginia Tech
     company_url: ''
-    company_logo: Horizontal_VT_Full_Color_RGB
     location: Virginia
     date_start: '2019-01-10'
     date_end: ''
@@ -33,7 +32,6 @@ experience:
   - title: Summer Research Intern
     company: Lawrence Livermore National Lab
     company_url: ''
-    company_logo: Lawrence_Livermore_National_Laboratory_logo
     location: CA
     date_start: '2021-05-15'
     date_end: '2021-08-09'
@@ -41,7 +39,6 @@ experience:
   - title: Summer Research Intern
     company: Los Alamos National Lab
     company_url: ''
-    company_logo: Los_Alamos_logo
     location: NM
     date_start: '2019-05-15'
     date_end: '2019-08-09'
