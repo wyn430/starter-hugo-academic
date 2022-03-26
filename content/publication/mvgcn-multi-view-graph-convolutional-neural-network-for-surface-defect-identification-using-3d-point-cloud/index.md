@@ -4,12 +4,13 @@ title: "MVGCN: Multi-view Graph Convolutional Neural Network for Surface Defect
 subtitle: ""
 publication_types:
   - "2"
-author_notes:
+authors:
   - Yinan Wang
   - Wenbo Sun
   - Jionghua "Judy" Jin
-  - Zhenyu "James" Kong
+  - Zhenyu James Kong
   - Xiaowei Yue
+author_notes: []
 publication: ASME Transactions, Journal of Manufacturing Science and Engineering
   (revision submitted)
 abstract: "Surface defect identification is a crucial task in many manufacturing
