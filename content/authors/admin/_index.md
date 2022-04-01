@@ -45,4 +45,6 @@ highlight_name: true
 ---
 Yinan Wang is a final-year Ph.D. candidate in the [Grado Department of Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/) under the supervison of [Dr. Xiaowei Yue](https://sites.google.com/view/xiaowei-yue). His research interest lies in developing systematic engineering-driven machine learning methodologies with applications to advanced manufacturing.
 
+He will join the [Department of Industrial and Systems Engineering](https://ise.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) as a tenure-track Assistant Professor in Fall 2022. *He is now looking for self-motivated Ph.D. student with strong background in IE/EE/ME/Stat./Material Science/etc. to work on cutting-edge interdisplinary research of Machine Learning and Advanced Manufacturing. Please feel free to send him an email at yinan.rpi(at)gmail.com if you are interested!*
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
