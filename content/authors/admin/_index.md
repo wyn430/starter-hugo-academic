@@ -15,7 +15,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yinanw@vt.edu
+    link: mailto:yinanw.rpi@gmail.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=-vfMhrEAAAAJ
@@ -25,9 +25,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yinanwang430
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 organizations:
   - name: Virginia Tech
-    url: https://www.stanford.edu/
+    url: https://vt.edu/
 education:
   courses:
     - course: PhD in Industrial and Systems Engineering
@@ -49,4 +52,4 @@ He will join the [Department of Industrial and Systems Engineering](https://ise.
 
 *He is now looking for self-motivated Ph.D. student with strong background in IE/EE/ME/Stat./Material Science/etc. to work on cutting-edge interdisplinary research of Machine Learning and Advanced Manufacturing. Please feel free to send him an email at yinanw.rpi(at)gmail.com if you are interested!*
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tickets.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
