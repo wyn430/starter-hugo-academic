@@ -30,9 +30,9 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Industrial and Systems Engineering (in process)
+    - course: PhD in Industrial and Systems Engineering
       institution: Virginia Tech
-      year: 2022
+      year: 2022 (expected)
     - course: Master in Electrical Engineering
       institution: Columbia University
       year: 2019
