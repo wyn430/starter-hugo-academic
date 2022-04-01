@@ -43,4 +43,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Yinan Wang is a final-year Ph.D. candidate in the Grado Department of Industrial and Systems Engineering at Virginia Tech. His research interest lies in developing systematic engineering-driven machine learning methodologies with applications to advanced manufacturing.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
