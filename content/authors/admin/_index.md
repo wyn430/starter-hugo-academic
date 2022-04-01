@@ -49,4 +49,4 @@ He will join the [Department of Industrial and Systems Engineering](https://ise.
 
 *He is now looking for self-motivated Ph.D. student with strong background in IE/EE/ME/Stat./Material Science/etc. to work on cutting-edge interdisplinary research of Machine Learning and Advanced Manufacturing. Please feel free to send him an email at yinanw.rpi(at)gmail.com if you are interested!*
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tickets.pdf" "newtab" >}}resumé{{< /staticref >}}.
