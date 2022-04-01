@@ -47,6 +47,6 @@ Yinan Wang is a final-year Ph.D. candidate in the [Grado Department of Industria
 
 He will join the [Department of Industrial and Systems Engineering](https://ise.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) as a tenure-track Assistant Professor in Fall 2022. 
 
-*He is now looking for self-motivated Ph.D. student with strong background in IE/EE/ME/Stat./Material Science/etc. to work on cutting-edge interdisplinary research of Machine Learning and Advanced Manufacturing. Please feel free to send him an email at yinan.rpi(at)gmail.com if you are interested!*
+*He is now looking for self-motivated Ph.D. student with strong background in IE/EE/ME/Stat./Material Science/etc. to work on cutting-edge interdisplinary research of Machine Learning and Advanced Manufacturing. Please feel free to send him an email at yinanw.rpi(at)gmail.com if you are interested!*
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
