@@ -12,6 +12,7 @@ interests:
   - Advanced Manufacturing
   - System Intelligence
   - Machine Learning
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
