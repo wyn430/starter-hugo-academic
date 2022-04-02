@@ -7,10 +7,10 @@ authors:
   - Yinhua Liu
   - Wenzheng Zhao
   - Hongpeng Liu
-  - Yinan Wang
+  - **Yinan Wang**
   - Xiaowei Yue
 doi: 10.1109/TMECH.2022.3142756
-publication: IEEE/ASME Transactions on Mechatronics
+publication: *IEEE/ASME Transactions on Mechatronics*
 abstract: The optical scanning gauges mounted on the robots are commonly used in
   quality inspection, such as verifying the dimensional specification of sheet
   structures. Coverage path planning (CPP) significantly influences the accuracy
