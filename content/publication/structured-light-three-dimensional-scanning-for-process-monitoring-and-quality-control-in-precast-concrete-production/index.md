@@ -5,13 +5,13 @@ publication_types:
   - "2"
 authors:
   - Rongxuan Wang
-  - **Yinan Wang**
+  - Yinan Wang
   - Sonam Devadiga
   - Isaac Perkins
   - Zhenyu James Kong
   - Xiaowei Yue
 doi: 10.15554/pcij66.6-01
-publication: *PCI Journal*
+publication: PCI Journal
 abstract: "This paper presents the use of a structured-light three-dimensional
   scanner to allow for efficient and real-time inspections of precast concrete
   specimens. This proposed quality assurance system reviews the quality of a
