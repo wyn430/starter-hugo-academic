@@ -75,7 +75,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/wyn430/starter-hugo-academic'
     content_dir: content
     branch: master
   avatar:
