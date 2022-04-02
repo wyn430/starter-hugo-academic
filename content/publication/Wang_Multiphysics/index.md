@@ -4,7 +4,7 @@ title: StressNet-Deep learning to predict stress with fracture propagation in
 publication_types:
   - "2"
 authors:
-  - Yinan Wang
+  - **Yinan Wang**
   - Diane Oyen
   - Weihong Grace Guo
   - Anishi Mehta
@@ -14,7 +14,7 @@ authors:
   - Gowri Srinivasan
   - Xiaowei Yue
 doi: 10.1038/s41529-021-00151-y
-publication: npj Materials Degradation
+publication: *NPJ Materials Degradation*
 abstract: Catastrophic failure in brittle materials is often due to the rapid
   growth and coalescence of cracks aided by high internal stresses. Hence,
   accurate prediction of maximum internal stress is critical to predicting time
