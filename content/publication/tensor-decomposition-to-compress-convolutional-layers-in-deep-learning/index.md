@@ -3,11 +3,11 @@ title: Tensor decomposition to compress convolutional layers in deep learning
 publication_types:
   - "2"
 authors:
-  - **Yinan Wang**
+  - Yinan Wang
   - Weihong “Grace” Guo
   - Xiaowei Yue
 doi: 10.1080/24725854.2021.1894514
-publication: *IISE Transactions*
+publication: IISE Transactions
 abstract: "Feature extraction for tensor data serves as an important step in
   many tasks such as anomaly detection, process monitoring, image
   classification, and quality control. Although many methods have been proposed
