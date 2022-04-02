@@ -5,11 +5,11 @@ publication_types:
   - "2"
 authors:
   - Kaiwen Wang
-  - **Yinan Wang**
+  - Yinan Wang
   - Xiaowei Yue
   - Wenjun Cai
 doi: 10.1016/j.corsci.2020.109095
-publication: *Corrosion Science*
+publication: Corrosion Science
 abstract: Past research in tribocorrosion mainly relies on costly and
   trial-and-error experimental methods to study the materials’ deformation and
   degradation under extreme conditions. This work developed a finite element
