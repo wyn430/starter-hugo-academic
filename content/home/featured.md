@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - under review manuscript
+      - manuscript
     tag: ''
     category: ''
     publication_type: ''
@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./under review manuscript/).
+Quickly discover relevant content by [filtering publications](./manuscript/).
 {{% /callout %}}
