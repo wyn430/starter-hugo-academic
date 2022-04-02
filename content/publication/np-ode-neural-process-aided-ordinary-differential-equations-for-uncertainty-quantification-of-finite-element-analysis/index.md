@@ -4,12 +4,12 @@ title: "NP-ODE: Neural process aided ordinary differential equations for
 publication_types:
   - "2"
 authors:
-  - Yinan Wang
+  - **Yinan Wang**
   - Kaiwen Wang
   - Wenjun Cai
   - Xiaowei Yue
 doi: 10.1080/24725854.2021.1891485
-publication: IISE Transactions
+publication: *IISE Transactions*
 abstract: "Finite Element Analysis (FEA) has been widely used to generate
   simulations of complex nonlinear systems. Despite its strength and accuracy,
   FEA usually has two limitations: (i) running high-fidelity FEA often requires
