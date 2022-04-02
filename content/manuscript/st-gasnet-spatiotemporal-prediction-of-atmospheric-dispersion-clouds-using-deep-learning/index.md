@@ -9,7 +9,7 @@ authors:
   - Nipun Gunawardena
   - Donald D. Lucas
   - Xiaowei Yue
-publication: IEEE Transactions on Neural Network and Learning System (under review)
+publication: IEEE Transactions on Neural Networks and Learning Systems (under review)
 abstract: A better understanding of how atmospherically dispersed plumes
   propagate through complex environments such as urban areas is important for
   many applications, including analyzing the smoke caused by wildfires, leakage
