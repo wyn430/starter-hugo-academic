@@ -6,12 +6,12 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>]()"
 +++
-* **Jan. 2022**: _Our paper `WOOD: Wasserstein-based Out-of-Distribution Detection' won the SPES + Q&P Best Student Paper Award (2022) from American Statistical Association (ASA). Congratulations!_
-* **Oct. 2021**: _Yinan is selected to join the IISE Future Faculty Fellows (3F) program. Congratulations!_
-* **Oct. 2021**: _Our paper `WOOD: Wasserstein-based Out-of-Distribution Detection' won the INFORMS Data Mining and Decision Analytics Workshop Best Theoretical Paper Award (2021). Congratulations!_
-* **Oct. 2021**: _Our paper `NP-ODE: Neural Process Aided Ordinary Differential Equations for Uncertainty Quantification of Finite Element Analysis' won the Finalist of Best Student Paper Award from INFORMS Quality, Statistics, and Reliability (QSR) Section (2021). Congratulations!_
-* **July 2021**: _Yinan is elected as the Student Board Member of QCRE (Quality Control & Reliability Engineering) division at IISE. Congratulations!_
-* **June 2021**: _Yinan is selected as the recipient of [Educational Foundation Scholarship](https://www.isa.org/membership/students/scholarships/isa-educational-foundation-scholarship-recipients) and [Analysis Division Scholarship](https://www.isa.org/membership/students/scholarships/isa-section-and-district-scholarships) from International Society of Automation (ISA). We thank the support from ISA!_
-* **June 2021**: _Our work `NP-ODE: Neural Process Aided Ordinary Differential Equations for Uncertainty Quantification of Finite Element Analysis' won the Best Poster Award from NAMRC 49|MSEC 2021. Congratulations!_
-* **May 2021**: _Yinan is selected as the recipient of [Gilbreth Memorial Fellowship](https://www.isa.org/membership/students/scholarships/isa-educational-foundation-scholarship-recipients) from IISE (Institute of Industrial and Systems Engineers). We thank the support from IISE!__
-* **May 2021**: _Yinan is elected as the President-elect of Virginia Tech INFORMS (Institute for Operations Research and the Management Sciences) Student Chapter. Congratulations!_
+* **Jan. 2022**: Our paper "WOOD: Wasserstein-based Out-of-Distribution Detection" won the _SPES + Q&P Best Student Paper Award_ from American Statistical Association (ASA). Congratulations!
+* **Oct. 2021**: Yinan is selected to join the _IISE Future Faculty Fellows (3F) program_. Congratulations!
+* **Oct. 2021**: Our paper "WOOD: Wasserstein-based Out-of-Distribution Detection" won the _INFORMS Data Mining and Decision Analytics Workshop Best Theoretical Paper Award_. Congratulations!
+* **Oct. 2021**: Our paper "NP-ODE: Neural Process Aided Ordinary Differential Equations for Uncertainty Quantification of Finite Element Analysis" won the _Finalist of Best Student Paper Award_ from INFORMS Quality, Statistics, and Reliability (QSR) Section. Congratulations!
+* **July 2021**: Yinan is elected as the _Student Board Member_ of QCRE (Quality Control & Reliability Engineering) division at IISE. Congratulations!
+* **June 2021**: Yinan is selected as the recipient of _[Educational Foundation Scholarship]_(https://www.isa.org/membership/students/scholarships/isa-educational-foundation-scholarship-recipients) and _[Analysis Division Scholarship]_(https://www.isa.org/membership/students/scholarships/isa-section-and-district-scholarships) from International Society of Automation (ISA). We thank the support from ISA!
+* **June 2021**: Our work "NP-ODE: Neural Process Aided Ordinary Differential Equations for Uncertainty Quantification of Finite Element Analysis" won the _Best Poster Award_ from NAMRC 49|MSEC 2021. Congratulations!
+* **May 2021**: Yinan is selected as the recipient of _[Gilbreth Memorial Fellowship]_(https://www.isa.org/membership/students/scholarships/isa-educational-foundation-scholarship-recipients) from IISE (Institute of Industrial and Systems Engineers). We thank the support from IISE!
+* **May 2021**: Yinan is elected as the _President-elect_ of Virginia Tech INFORMS (Institute for Operations Research and the Management Sciences) Student Chapter. Congratulations!
