@@ -6,6 +6,7 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>]()"
 +++
+* **Apr. 2022**: Yinan is selected as the recipient of [_Mary G. and Joseph Natrella Scholarship_](https://community.amstat.org/qp/scholarshipsawards/marygandjosephnatrellascholarship) from ASA (American Statistical Association). He is also invited to give a presentation at Quality and Productivity Research Conference 2022. We thank the support from ASA!
 * **Jan. 2022**: Our paper "WOOD: Wasserstein-based Out-of-Distribution Detection" won the _SPES + Q&P Best Student Paper Award_ from American Statistical Association (ASA). Congratulations!
 * **Oct. 2021**: Yinan is selected to join the _IISE Future Faculty Fellows (3F) program_. Congratulations!
 * **Oct. 2021**: Our paper "WOOD: Wasserstein-based Out-of-Distribution Detection" won the _INFORMS Data Mining and Decision Analytics Workshop Best Theoretical Paper Award_. Congratulations!
