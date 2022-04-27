@@ -30,13 +30,13 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Virginia Tech
-    url: https://vt.edu/
+  - name: Rensselaer Polytechnic Institute
+    url: https://www.rpi.edu/
 education:
   courses:
     - course: PhD in Industrial and Systems Engineering
       institution: Virginia Tech
-      year: 2022 (expected)
+      year: 2022
     - course: Master in Electrical Engineering
       institution: Columbia University
       year: 2019
