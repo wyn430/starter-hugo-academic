@@ -1,8 +1,8 @@
 ---
 title: Yinan Wang
-role: Ph.D. Candidate
+role: Incoming Assistant Professor in the Department of Industrial and Systems Engineering
 avatar_filename: avatar.jpg
-bio: Yinan Wang is a Ph.D. candidate in the Grado Department of Industrial and
+bio: Dr. Yinan Wang received his Ph.D. degree in the Grado Department of Industrial and
   Systems Engineering at Virginia Tech. He received the M.S. degree in
   electrical engineering from Columbia University in 2019, and the B.S. degree
   in electrical engineering and automation from Xi'an Jiaotong University in
@@ -47,9 +47,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yinan Wang is a final-year Ph.D. candidate in the [Grado Department of Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/) under the supervison of [Dr. Xiaowei Yue](https://sites.google.com/view/xiaowei-yue). His research interest lies in developing systematic engineering-driven machine learning methodologies with applications to advanced manufacturing.
-
-He will join the [Department of Industrial and Systems Engineering](https://ise.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) as a tenure-track Assistant Professor in Fall 2022. 
+Dr. Yinan Wang will join the [Department of Industrial and Systems Engineering](https://ise.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) as a tenure-track Assistant Professor in Fall 2022. He received the Ph.D. degree in the [Grado Department of Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/) under the supervison of [Dr. Xiaowei Yue](https://sites.google.com/view/xiaowei-yue). His research interest lies in developing systematic engineering-driven machine learning methodologies with applications to advanced manufacturing.
 
 *He is now looking for self-motivated Ph.D. student with strong background in IE/EE/ME/Stat./Material Science/etc. to work on cutting-edge interdisplinary research of Machine Learning and Advanced Manufacturing. Please feel free to send him an email at yinanw.rpi(at)gmail.com if you are interested!*
 
