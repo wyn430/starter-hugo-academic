@@ -1,9 +1,9 @@
 ---
 title: Yinan Wang
-role: Incoming Assistant Professor in the Department of Industrial and Systems Engineering
+role: Assistant Professor in the Department of Industrial and Systems Engineering
 avatar_filename: avatar.jpg
 bio: Dr. Yinan Wang received his Ph.D. degree in the Grado Department of Industrial and
-  Systems Engineering at Virginia Tech. He received the M.S. degree in
+  Systems Engineering at Virginia Tech in 2022. He received the M.S. degree in
   electrical engineering from Columbia University in 2019, and the B.S. degree
   in electrical engineering and automation from Xi'an Jiaotong University in
   2017.
@@ -47,8 +47,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Dr. Yinan Wang will join the [Department of Industrial and Systems Engineering](https://ise.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) as a tenure-track Assistant Professor in Fall 2022. He received the Ph.D. degree in the [Grado Department of Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/) under the supervison of [Dr. Xiaowei Yue](https://sites.google.com/view/xiaowei-yue). His research interest lies in developing systematic engineering-driven machine learning methodologies with applications to advanced manufacturing.
-
-*He is now looking for self-motivated Ph.D. student with strong background in IE/EE/ME/Stat./Material Science/etc. to work on cutting-edge interdisplinary research of Machine Learning and Advanced Manufacturing. Please feel free to send him an email at yinanw.rpi(at)gmail.com if you are interested!*
+Dr. Yinan Wang serves as the tenure-track assistant professor in the [Department of Industrial and Systems Engineering](https://ise.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). He received the Ph.D. degree in the [Grado Department of Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/) under the supervison of [Dr. Xiaowei Yue](https://sites.google.com/view/xiaowei-yue). His research interest lies in developing systematic engineering-driven machine learning methodologies with applications to advanced manufacturing.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
