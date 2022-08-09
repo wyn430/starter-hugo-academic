@@ -21,13 +21,21 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:     
+experience:
+
+  - title: Graduate Research Assitant
+    company: Rensselaer Polytechnic Institute
+    company_url: ''
+    location: Troy, NY
+    date_start: '2022-08-01'
+    date_end: ''
+    
   - title: Graduate Research Assitant
     company: Virginia Tech
     company_url: ''
     location: Virginia
     date_start: '2019-01-10'
-    date_end: ''
+    date_end: '2022-05-15'
     
   - title: Summer Research Intern
     company: Lawrence Livermore National Lab
