@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Graduate Research Assitant
+  - title: Assistant Professor
     company: Rensselaer Polytechnic Institute
     company_url: ''
     location: Troy, NY
