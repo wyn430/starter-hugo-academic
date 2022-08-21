@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Selected Awards and Honors"
-subtitle = "[All Awards>>]()"
+subtitle = "[All Awards>>](./allawards)"
 +++
 * **Robert J. Lyman Award**, PCI (2022)
 * **Best Ph.D. Dissertation Award**, CIE Division, ASME (2022)
