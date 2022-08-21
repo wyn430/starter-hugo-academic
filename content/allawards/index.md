@@ -7,7 +7,7 @@
 * **Best Student Paper Award**, SPES + Q&P Divisions, ASA, **Winner** (2022)
 * **Best Theoretical Paper Award**, [INFORMS 2021 Data Mining and Decision Analytics Workshop](https://connect.informs.org/data-mining/awards), **Winner** (2021)
 * **Best Student Paper Award**, [INFORMS 2021 Quality, Statistic and Reliability Section](https://connect.informs.org/qsr/awards), **Finalist** (2021)
-* **MSEC 2021 Best Poster Award**, ASME and SME (2021)
+* **MSEC 2021 Best Poster Award**, ASME and SME, **Winner** (2021)
 * **Educational Foundation Scholarship**, ISA (2021)
 * **Analysis Division Scholarship**, ISA (2021)
 * **Gilbreth Memorial Fellowship**, IISE (2021)
