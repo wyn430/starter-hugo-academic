@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 26  # Order that this section will appear.
 title = "News"
-subtitle = "[All News>>]()"
+subtitle = "[All News>>](./all_news.md)"
 +++
 * **Aug. 2022**: Our paper "Structured-Light Three-Dimensional Scanning for Process Monitoring and Quality Control in Precast Concrete Production" won the [_Robert J. Lyman Award_](https://www.pci.org/PCI/About/Awards/PCI_Journal_Awards.aspx?hkey=b074a844-014c-4fcf-857f-99a53f874ce2) from Precast/Prestressed Concrete Institute. Congratulations!
 * **Aug. 2022**: Yinan is selected as the recipient of the _Best Ph.D. Dissertation Award_ from Computer and Information in Engineering (CIE) division at ASME. Congratulations!
