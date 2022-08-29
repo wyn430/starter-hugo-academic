@@ -50,3 +50,5 @@ highlight_name: true
 Dr. Yinan Wang serves as the tenure-track assistant professor in the [Department of Industrial and Systems Engineering](https://ise.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). He received the Ph.D. degree in the [Grado Department of Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/) under the supervison of [Dr. Xiaowei Yue](https://sites.google.com/view/xiaowei-yue). His research interest lies in developing systematic engineering-driven machine learning methodologies with applications to advanced manufacturing.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+*For current undergraduate and graduate students at RPI, if you are interested to work with me on the cutting-edge ML/DL/RL projects, please feel free to send me an email or stop by my office at CII 5213.*
