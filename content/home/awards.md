@@ -8,6 +8,7 @@ weight = 25  # Order that this section will appear.
 title = "Selected Awards and Honors"
 subtitle = "[All Awards>>](./allawards)"
 +++
+* **Panel Fellow**, NSF CMMI Game Changer Academy (2022-2023)
 * **FTC Early Career Grant**, ASQ (2022)
 * **Robert J. Lyman Award**, PCI (2022)
 * **Best Ph.D. Dissertation Award**, CIE Division, ASME (2022)
