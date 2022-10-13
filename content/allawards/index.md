@@ -1,3 +1,5 @@
+* **Panel Fellow**, NSF CMMI Game Changer Academy (2022-2023)
+* **FTC Early Career Grant**, ASQ (2022)
 * **Robert J. Lyman Award**, PCI (2022)
 * **Best Ph.D. Dissertation Award**, CIE Division, ASME (2022)
 * **Best Track Paper Award**, DAIS Division, IISE (2022)
