@@ -2,8 +2,8 @@
 widget: people
 headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
-title: Students
-weight: 50
+title: Group
+weight: 60
 
 content:
   # Choose which groups/teams of users to display.
