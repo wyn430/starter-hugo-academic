@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
+  - name: Group
+    url: '#people'
+    weight: 60
   # - name: Contact
   #  url: '#contact'
   #  weight: 60
