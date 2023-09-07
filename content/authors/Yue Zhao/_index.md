@@ -40,17 +40,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'zhaoy23@rpi.edu'  # For a direct email link, use "mailto:test@example.org".
-<!--#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
-- icon: linkedin
-  icon_pack: fab
-  link: 
-- icon: researchgate
-  icon_pack: ai
-  link: -->
- 
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yw2924@columabia.edu"
