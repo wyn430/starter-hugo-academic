@@ -1,3 +1,8 @@
+* **DAIS Mobile App Competition (Winner)**, IISE (2023)
+* **Pritsker Doctoral Dissertation Award (2nd Place)**, IISE (2023)
+* **IISE Transactions Best Paper Award (Focus Issue on Data Science, Quality and Reliability)**, IISE (2023)
+* **IISE Transactions Best Paper Award (Focus Issue on Design and Manufacturing)**, IISE (2023)
+* **Trustee Celebration of Faculty Achievement Award**, Rensselaer Polytechnic Institute (2022)
 * **Panel Fellow**, NSF CMMI Game Changer Academy (2022-2023)
 * **FTC Early Career Grant**, ASQ (2022)
 * **Robert J. Lyman Award**, PCI (2022)
