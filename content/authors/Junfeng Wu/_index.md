@@ -1,0 +1,53 @@
+---
+# Display name
+title: Junfeng Wu
+
+# Username (this should match the folder name)
+authors:
+- Junfeng Wu
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Ph.D. Students 
+
+# Organizations/Affiliations
+organizations:
+- name: Rensselaer Polytechnic Institute
+  url: "https://www.rpi.edu/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: TBA
+
+interests:
+- Machine Learning
+
+education:
+  courses:
+  - course: Ph.D. in Industrial and Systems Engineering
+    institution: Rensselaer Polytechnic Institute
+    year: 2023
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: user
+  icon_pack: fas
+  link: https://ise.rpi.edu/people/junfeng-wu
+- icon: envelope
+  icon_pack: fas
+  link: 'wuj26@rpi.edu'  # For a direct email link, use "mailto:test@example.org".
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "yw2924@columabia.edu"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Ph.D. Students
+---
+# Research Interest
+xx
