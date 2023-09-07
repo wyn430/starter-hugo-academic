@@ -1,3 +1,11 @@
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 80  # Order that this section will appear.
+title = "Selected Publications"
+subtitle = "[All Publications>>](./allpublications)"
+
+<!--
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -39,3 +47,4 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+-->
