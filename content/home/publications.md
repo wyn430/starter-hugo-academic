@@ -7,7 +7,6 @@ weight = 80  # Order that this section will appear.
 title = "Selected Publications"
 subtitle = "[All Publications>>](./allpublications)"
 +++
-* **Panel Fellow**, NSF CMMI Game Changer Academy (2022-2023)
-* **FTC Early Career Grant**, ASQ (2022)
+* Zhao, W., Liu, Y., **Wang, Y.**, & Yue, X. (2023). [Distributed spot welding task allocation and sequential planning for multi-station multi-robot coordinate assembly processes](https://link.springer.com/article/10.1007/s00170-023-11750-1). The International Journal of Advanced Manufacturing Technology
 
 
