@@ -6,10 +6,14 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>](./allnews)"
 +++
-* **Oct. 2022**: Yinan is selected as the Panel Fellow in the 2023 cohort of the National Science Foundation (NSF) Division of [_CMMI Game Changer Academies_](https://www.gamechangeracademies.com/#panel) for Advancing Research Innovation (CGCA). Congratulations!
-* **Oct. 2022**: Yinan is selected as the recipient of the [_Fall Technical Conference Early Career Grant Award_](https://stattrak.amstat.org/2022/08/01/asq-grants-fall-conference/) from the American Society of Quality (ASQ). Congratulations!
-* **Aug. 2022**: Our paper "Structured-Light Three-Dimensional Scanning for Process Monitoring and Quality Control in Precast Concrete Production" won the [_Robert J. Lyman Award_](https://www.pci.org/PCI/About/Awards/PCI_Journal_Awards.aspx?hkey=b074a844-014c-4fcf-857f-99a53f874ce2) from Precast/Prestressed Concrete Institute. Congratulations!
-* **Aug. 2022**: Yinan is selected as the recipient of the _Best Ph.D. Dissertation Award_ from Computer and Information in Engineering (CIE) division at ASME. Congratulations!
-* **May 2022**: Our paper "WOOD: Wasserstein-based Out-of-Distribution Detection" won the _Best Track Paper Award_ from Data Analytics and Information System (DAIS) Division at IISE. Congratulations!
-* **Apr. 2022**: Yinan is selected as the finalist of the [_2022 Paul E. Torgersen Graduate Student Research Excellence Award_](https://eng.vt.edu/academics/graduate-life/deans-graduate-team/paul-torgersen-graduate-student-research-excellence-award.html), the winner will be further informed in May. Congratulations!
-* **Apr. 2022**: Yinan is selected as the recipient of [_Mary G. and Joseph Natrella Scholarship_](https://community.amstat.org/qp/scholarshipsawards/marygandjosephnatrellascholarship) from ASA (American Statistical Association). He is also invited to give a presentation at Quality and Productivity Research Conference 2022. We thank the support from ASA!
+* **Aug. 2023**: Mr. Junfeng Wu joined our group as a Ph.D. student. Welcome!
+* **June 2023**: Ph.D. student Yue Zhao is one recipient of the student travel grant from RPI. Congratulations, and We thank the support from the department and university!
+* **May 2023**: Our developed application won First Place in the _DAIS Mobile App Competition_ at the IISE Annual Conference & Expo 2023. Congratulations!
+* **May 2023**: Our work, [CPAC-CNN](https://www.tandfonline.com/doi/abs/10.1080/24725854.2021.1894514), has been selected as the IISE Transactions Best Paper Award on Data Science, Quality, and Reliability. Congratulations to the author team!
+* **May 2023**: Our work, [NP-ODE](https://www.tandfonline.com/doi/abs/10.1080/24725854.2021.1891485), has been selected as the IISE Transactions Best Paper Award on Manufacturing and Design. Congratulations to the author team!
+* **May 2023**: Dr. Wang served as an organizer for the _Advances in Statistical Learning for Quality and Reliability in Smart Manufacturing Symposium_ at the [MSEC 2023](https://msec-namrc2023.rutgers.edu/about).
+* **April 2023**: Dr. Wang served as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop](https://sdm23wsmh.github.io/) at the [SDM23 conference](https://www.siam.org/conferences/cm/conference/sdm23).
+* **Feb. 2023**: Dr. Wang served as an Ad-hoc Reviewer for the NSF Panel.
+* **Jan. 2023**: Dr. Wang served as a Reviewer for the NSF Panel.
+* **Dec. 2022** Dr. Wang is one recipient of _Trustee Celebration of Faculty Achievement Award_ from RPI. We thank the support from the department and university!
+* **Aug. 2022**: Mr. Jiayu Liu and Mr. Yue Zhao joined our group as Ph.D. students. Welcome on board!
