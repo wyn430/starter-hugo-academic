@@ -7,9 +7,10 @@ weight = 80  # Order that this section will appear.
 title = "Selected Publications"
 subtitle = "[All Publications>>](./allpublications)"
 +++
-_Name<sup>*</sup>: Equal contribution as co-first author_
-_<ins>Name</ins>: Student under Dr. Wang's supervision_ 
-_Name<sup>#</sup>: Corresponding author_
+_Name<sup>*</sup>: Equal contribution as co-first author_<br>
+_<ins>Name</ins>: Student under Dr. Wang's supervision_<br>
+_Name<sup>#</sup>: Corresponding author_<br>
+
 * Zhao, W., Liu, Y., **Wang, Y.** <sup>#</sup>, & Yue, X. (2023). [Distributed spot welding task allocation and sequential planning for multi-station multi-robot coordinate assembly processes](https://link.springer.com/article/10.1007/s00170-023-11750-1). The International Journal of Advanced Manufacturing Technology
 
 
