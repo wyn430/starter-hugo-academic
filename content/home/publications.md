@@ -15,6 +15,6 @@ _Name<sup>#</sup>: Corresponding author_<br>
 * Li, Y., **Wang, Y.**<sup>*</sup>, & Liu, Y. <sup>#</sup> (2023). [3D Point Cloud Segmentation Based on Context Feature for Sheet Metal Part Boundary Recognition](https://ieeexplore.ieee.org/abstract/document/10113785). IEEE Transactions on Instrumentation and Measurement.
 * **Wang, Y.**, Sun, W., Jin, J., Kong, Z., & Yue, X.<sup>#</sup> (2023). [MVGCN: Multi-View Graph Convolutional Neural Network for Surface Defect Identification Using Three-Dimensional Point Cloud](https://asmedigitalcollection.asme.org/manufacturingscience/article/145/3/031004/1148268/MVGCN-Multi-View-Graph-Convolutional-Neural). Journal of Manufacturing Science and Engineering.
 * **Wang, Y.**., Guo, W. G., & Yue, X.<sup>#</sup> (2022). [Tensor decomposition to compress convolutional layers in deep learning](https://www.tandfonline.com/doi/abs/10.1080/24725854.2021.1894514). IISE Transactions.
-* **Wang, Y.**, Wang, K., Cai, W., & Yue, X.<sup>#</sup> (2022). [NP-ODE: Neural process aided ordinary differential equations for uncertainty quantification of finite element analysis](https://www.tandfonline.com/doi/abs/10.1080/24725854.2021.1891485). IISE Transactions.
+* **Wang, Y.**, Wang, K., Cai, W.<sup>#</sup>, & Yue, X.<sup>#</sup> (2022). [NP-ODE: Neural process aided ordinary differential equations for uncertainty quantification of finite element analysis](https://www.tandfonline.com/doi/abs/10.1080/24725854.2021.1891485). IISE Transactions.
 
 
