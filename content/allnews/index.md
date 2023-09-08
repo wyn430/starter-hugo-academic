@@ -8,7 +8,7 @@
 * **April 2023**: Dr. Wang served as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop](https://sdm23wsmh.github.io/) at the [SDM23 conference](https://www.siam.org/conferences/cm/conference/sdm23).
 * **Feb. 2023**: Dr. Wang served as an Ad-hoc Reviewer for the NSF Panel.
 * **Jan. 2023**: Dr. Wang served as a Reviewer for the NSF Panel.
-* **Dec. 2022** Dr. Wang is one recipient of _Trustee Celebration of Faculty Achievement Award_ from RPI. We thank the support from the department and university!
+* **Dec. 2022**: Dr. Wang is one recipient of _Trustee Celebration of Faculty Achievement Award_ from RPI. We thank the support from the department and university!
 * **Oct. 2022**: Yinan is selected as the Panel Fellow in the 2023 cohort of the National Science Foundation (NSF) Division of [_CMMI Game Changer Academies_](https://www.gamechangeracademies.com/#panel) for Advancing Research Innovation (CGCA). Congratulations!
 * **Oct. 2022**: Yinan is selected as the recipient of the [_Fall Technical Conference Early Career Grant Award_](https://stattrak.amstat.org/2022/08/01/asq-grants-fall-conference/) from the American Society of Quality (ASQ). Congratulations!
 * **Aug. 2022**: Mr. Jiayu Liu and Mr. Yue Zhao joined our group as Ph.D. students. Welcome on board!
