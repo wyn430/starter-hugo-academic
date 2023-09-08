@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Selected Awards and Honors"
+title = "Selected Awards"
 subtitle = "[All Awards>>](./allawards)"
 +++
 * **DAIS Mobile App Competition (Winner)**, IISE (2023)
