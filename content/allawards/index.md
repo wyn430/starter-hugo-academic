@@ -18,6 +18,7 @@
 * **Educational Foundation Scholarship**, ISA (2021)
 * **Analysis Division Scholarship**, ISA (2021)
 * **Gilbreth Memorial Fellowship**, IISE (2021)
+* **Qualcomm Innovation Fellowship (Finalist)**, Qualcomm (2020)
 * **SDSS Student Award**, ASA (2020)
 * **FTC Student Scholarship**, American Society for Quality (ASQ)
 * **Applied Machine Learning Summer Research Fellowship**, Los Alamos National Laboratory (LANL) (2019)
