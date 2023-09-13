@@ -7,6 +7,7 @@ title = "News"
 subtitle = "[All News>>](./allnews)"
 +++
 * **Aug. 2023**: Mr. Junfeng Wu joined our group as a Ph.D. student. Welcome!
+* **Aug. 2023**: Dr. Yinan Wang starts to serve as the Board Member at IISE DAIS Division.
 * **June 2023**: Ph.D. student Yue Zhao is one recipient of the **Student Travel Grant** from RPI. Congratulations, and We thank the support from the department and university!
 * **May 2023**: Dr. Wang received **Pritsker Doctoral Dissertation Award (2nd Place)** from IISE. Congratulations! 
 * **May 2023**: Our developed application won First Place in the _DAIS Mobile App Competition_ at the IISE Annual Conference & Expo 2023. Congratulations!
