@@ -1,3 +1,5 @@
+* **Sep. 2023**: Undergraduate research assistant Mr. Aaryan Sonawane received funding from the [Undergraduate Research Program (URP)](https://info.rpi.edu/undergraduate-research/undergraduate-research-program-academic-year) at RPI. Congratulations!
+* **Sep. 2023**: Mr. Tommy Bird, Mr. Aadit Nagori, Mr. Joseph Park, and Mr. Aaryan Sonawane joined our group as undergraduate research assistants. Welcome!
 * **Aug. 2023**: Mr. Junfeng Wu joined our group as a Ph.D. student. Welcome!
 * **Aug. 2023**: Dr. Wang starts to serve as the Board Member at IISE DAIS Division.
 * **June 2023**: Ph.D. student Yue Zhao is one recipient of the **Student Travel Grant** from RPI. Congratulations, and We thank the support from the department and university!
