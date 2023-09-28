@@ -28,10 +28,10 @@ bio: TBA
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/aadit-nagori-a59374220
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   link: https://github.com/Aadit-Nagori
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
