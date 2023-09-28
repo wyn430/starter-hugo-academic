@@ -35,7 +35,7 @@ social:
   link: https://github.com/tommycbird
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/tommycbird
+  link: https://www.linkedin.com/in/tommycbird/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yw2924@columabia.edu"
