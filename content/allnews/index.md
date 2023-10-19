@@ -1,3 +1,5 @@
+* **Oct. 2023**: Ph.D. student Yue Zhao presented his research work at INFORMS Annual Meeting 2023 at Phoenix!
+* **Oct. 2023**: Ph.D. student Jiayu Liu presented his research work at the School of Engineering Academic Showcase at RPI!
 * **Sep. 2023**: Undergraduate research assistant Mr. Aaryan Sonawane received financial support from the [Undergraduate Research Program (URP)](https://info.rpi.edu/undergraduate-research/undergraduate-research-program-academic-year) at RPI. Congratulations!
 * **Sep. 2023**: Mr. Tommy Bird, Mr. Aadit Nagori, Mr. Joseph Park, and Mr. Aaryan Sonawane joined our group as undergraduate research assistants. Welcome!
 * **Aug. 2023**: Mr. Junfeng Wu joined our group as a Ph.D. student. Welcome!
