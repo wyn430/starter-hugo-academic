@@ -6,6 +6,7 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>](./allnews)"
 +++
+* **Nov. 2023**: Our research work [WOOD: Wasserstein-based out-of-distribution detection](https://ieeexplore.ieee.org/abstract/document/10302348) is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*! Congratulations to all the collaborators!
 * **Oct. 2023**: Ph.D. student Yue Zhao presented his research work at INFORMS Annual Meeting 2023 at Phoenix!
 * **Oct. 2023**: Ph.D. student Jiayu Liu presented his research work at the School of Engineering Academic Showcase at RPI!
 * **Sep. 2023**: Undergraduate research assistant Mr. Aaryan Sonawane received financial support from the [Undergraduate Research Program (URP)](https://info.rpi.edu/undergraduate-research/undergraduate-research-program-academic-year) at RPI. Congratulations!
