@@ -1,3 +1,6 @@
+* **April 2024** Ph.D. student Yue Zhao passed the Doctoral Qualify Exam. Congratulations!
+* **April 2024** Ph.D. student Jiayu Liu passed the Doctoral Qualify Exam. Congratulations!
+* **Jan. 2024** Dr. Wang is elected as the Program Chair of ISA (International Society of Automation) ACARD (Automatic Controls and Robotics Division) 2024 Executive Board. Congratulations!
 * **Nov. 2023**: Our research work [WOOD: Wasserstein-based out-of-distribution detection](https://ieeexplore.ieee.org/abstract/document/10302348) is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*! Congratulations to all the collaborators!
 * **Oct. 2023**: Ph.D. student Yue Zhao presented his research work at INFORMS Annual Meeting 2023 at Phoenix!
 * **Oct. 2023**: Ph.D. student Jiayu Liu presented his research work at the School of Engineering Academic Showcase at RPI!
