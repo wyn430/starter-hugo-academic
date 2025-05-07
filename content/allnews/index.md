@@ -1,3 +1,6 @@
+* **June 2025**: Ph.D. students Jiayu Liu and Yue Zhao will present their research works at IISE Annual Conference 2025 in Atlanta!
+* **Oct. 2024**: Ph.D. students Jiayu Liu, Junfeng Wu, and Yue Zhao presented their research works at INFORMS Annual Meeting 2024 in Seattle!
+* **August 2024** Ph.D. student Junfeng Wu passed the Doctoral Qualify Exam. Congratulations!
 * **April 2024** Ph.D. student Yue Zhao passed the Doctoral Qualify Exam. Congratulations!
 * **April 2024** Ph.D. student Jiayu Liu passed the Doctoral Qualify Exam. Congratulations!
 * **Jan. 2024** Dr. Wang is elected as the Program Chair of ISA (International Society of Automation) ACARD (Automatic Controls and Robotics Division) 2024 Executive Board. Congratulations!
