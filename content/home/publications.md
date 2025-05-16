@@ -11,11 +11,10 @@ _Name<sup>*</sup>: Equal contribution as co-first author_<br>
 _<ins>Name</ins>: Student under Dr. Wang's supervision_<br>
 _Name<sup>#</sup>: Corresponding author_<br>
 
-* **Wang, Y.**, Sun, W., Jin, J., Kong, Z., Yue, X. (2023). [WOOD: Wasserstein-based out-of-distribution detection](https://ieeexplore.ieee.org/abstract/document/10302348). IEEE Transactions on Pattern Analysis and Machine Intelligence.
-* Zhao, W., Liu, Y.<sup>#</sup>, **Wang, Y.**<sup>#</sup>, & Yue, X. (2023). [Distributed spot welding task allocation and sequential planning for multi-station multi-robot coordinate assembly processes](https://link.springer.com/article/10.1007/s00170-023-11750-1). The International Journal of Advanced Manufacturing Technology
-* Li, Y., **Wang, Y.**<sup>*</sup>, & Liu, Y. <sup>#</sup> (2023). [3D Point Cloud Segmentation Based on Context Feature for Sheet Metal Part Boundary Recognition](https://ieeexplore.ieee.org/abstract/document/10113785). IEEE Transactions on Instrumentation and Measurement.
-* **Wang, Y.**, Sun, W., Jin, J., Kong, Z., & Yue, X.<sup>#</sup> (2023). [MVGCN: Multi-View Graph Convolutional Neural Network for Surface Defect Identification Using Three-Dimensional Point Cloud](https://asmedigitalcollection.asme.org/manufacturingscience/article/145/3/031004/1148268/MVGCN-Multi-View-Graph-Convolutional-Neural). Journal of Manufacturing Science and Engineering.
-* **Wang, Y.**, Guo, W. G., & Yue, X.<sup>#</sup> (2022). [Tensor decomposition to compress convolutional layers in deep learning](https://www.tandfonline.com/doi/abs/10.1080/24725854.2021.1894514). IISE Transactions.
-* **Wang, Y.**, Wang, K., Cai, W.<sup>#</sup>, & Yue, X.<sup>#</sup> (2022). [NP-ODE: Neural process aided ordinary differential equations for uncertainty quantification of finite element analysis](https://www.tandfonline.com/doi/abs/10.1080/24725854.2021.1891485). IISE Transactions.
+* _Zhao, Y._, Li, Y., Liu, C., **Wang, Y.**, (2025), [ADs: Active Data-sharing for Data Quality Assurance in Advanced Manufacturing Systems](https://ieeexplore.ieee.org/abstract/document/10994334), IEEE Transactions on Automation Science and Engineering.
+* _Liu, J._, Mou, S., Gaw, N., **Wang, Y.**, (2025), [GAN-inversion for Unsupervised Industrial 3D Point Cloud Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S0957417425002878), Expert System with Applications.
+* Lutz, T., **Wang, Y.**, Yue, X., Camelio, J., (2024), [Reinforcement Learning for Fuselage Actuator Placement and Forces](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2413136), IISE Transactions.
+* **Wang, Y.**, Lutz, T., Yue, X., (2024), [SmartFixture: A Physics-guided Reinforcement Learning Framework for Automatic Fixture Design in Manufacturing Process](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2401041), IISE Transactions.
+* **Wang, Y.**, Sun, W., Jin, J., Kong, Z., Yue, X. (2024). [WOOD: Wasserstein-based out-of-distribution detection](https://ieeexplore.ieee.org/abstract/document/10302348). IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 
