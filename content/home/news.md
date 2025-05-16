@@ -6,6 +6,10 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>](./allnews)"
 +++
+* **June 2025**: Ph.D. students Jiayu Liu and Yue Zhao will present their research works at IISE Annual Conference 2025 in Atlanta!
+* **April 2025**: Our research work [ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems](https://ieeexplore.ieee.org/abstract/document/10994334) is accepted by *IEEE Transactions on Automation Science and Engineering (T-ASE)*! This work is led by Ph.D. student Jiayu Liu. Congratulations!
+* **Jan 2025**: Our research work [Uni-3DAD: Gan-inversion aided universal 3D anomaly detection on model-free products](https://www.sciencedirect.com/science/article/pii/S0957417425002878) is accepted by *Expert Systems with Applications (ESWA)*! This work is led by Ph.D. student Jiayu Liu. Congratulations!
+* **Oct. 2024**: Ph.D. students Jiayu Liu, Junfeng Wu, and Yue Zhao presented their research works at INFORMS Annual Meeting 2024 in Seattle!
 * **April 2024** Ph.D. student Yue Zhao passed the Doctoral Qualify Exam. Congratulations!
 * **April 2024** Ph.D. student Jiayu Liu passed the Doctoral Qualify Exam. Congratulations!
 * **Jan. 2024** Dr. Wang is elected as the Program Chair of ISA (International Society of Automation) ACARD (Automatic Controls and Robotics Division) 2024 Executive Board. Congratulations!
