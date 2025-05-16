@@ -1,3 +1,4 @@
+* **June 2025**: Ph.D. student Junfeng Wu will present his research work at MSEC 2025 in Greenville, South Carolina!
 * **June 2025**: Ph.D. students Jiayu Liu and Yue Zhao will present their research works at IISE Annual Conference 2025 in Atlanta!
 * **May 2025**: Our group received the IBM-RPI Future of Computing Research Collaboration (FCRC) Grant. Congratulations! 
 * **May 2025**: Ph.D. students Jiayu Liu and Yue Zhao are selected as recipients of the **NSF Student Travel Grant**  to participate in the IISE Annual Conference 2025 in Atlanta. Congratulations! We appreciate the support from IISE and NSF!
