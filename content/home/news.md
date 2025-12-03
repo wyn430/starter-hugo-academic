@@ -6,6 +6,8 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>](./allnews)"
 +++
+* **Nov. 2025**: Our group received the **IBM-RPI Future of Computing Research Collaboration (FCRC) Grant**. Congratulations! 
+* **Oct. 2025**: Ph.D. students Jiayu Liu, Junfeng Wu, and Yue Zhao presented their research works at INFORMS Annual Meeting 2025 in Atlanta!
 * **June 2025**: Ph.D. student Junfeng Wu will present his research work at MSEC 2025 in Greenville, South Carolina!
 * **June 2025**: Ph.D. students Jiayu Liu and Yue Zhao will present their research works at IISE Annual Conference 2025 in Atlanta!
 * **May 2025**: Our group received the **IBM-RPI Future of Computing Research Collaboration (FCRC) Grant**. Congratulations! 
