@@ -6,21 +6,16 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>](./allnews)"
 +++
+* **July 2026**: Our group received an **NSF CSSI (Cyberinfrastructure for Sustained Scientific Innovation) Elements** award for the collaborative project [Data-Agent: Agentic AI for Autonomous Data Quality Evaluation, Curation, and Task-Aware Dataset Design for Vision-Based Industrial Inspection](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2608819), in collaboration with Dr. Shancong Mou and Dr. Zirui Liu at the University of Minnesota. Dr. Wang serves as the RPI PI. We appreciate the support from NSF!
+* **July 2026**: Our group received a grant from the **RPI Teaching and Learning Collaboratory** for the project *AI-Driven Scenario-Based Simulation for Communication Skills Training in Semiconductor Manufacturing*, with Dr. Wang as PI and Dr. Helen Zhou and Dr. Muhsin Celik as Co-PIs.
+* **June 2026**: Dr. Wang started to serve as the **Vice-Chair of the Quality & Reliability Technical Committee (TC)** of the ASME Manufacturing Engineering Division (MED).
+* **June 2026**: Ph.D. student Jiayu Liu presented our work *Quantum Bayesian Optimization for Quality Improvement in Fuselage Assembly* at ASME MSEC 2026 at Penn State University!
+* **May 2026**: Dr. Wang will serve as a **Board Director of the IISE Quality Control and Reliability Engineering (QCRE) Division** (2026–2028).
+* **May 2026**: Ph.D. students Jiayu Liu and Junfeng Wu presented their research works at the IISE Annual Conference & Expo 2026 in Arlington, VA!
+* **May 2026**: Ph.D. student Junfeng Wu gave a talk on *Hardware-aware Finetuning for Efficient Deployment of LLM on Heterogeneous Computing Hardware* at the IBM-RPI FCRC Seminar Series.
+* **March 2026**: Dr. Wang gave an invited talk, *Data-centric Modeling and Optimization for Complex Physical Systems*, at the Department of Industrial and Systems Engineering, Rutgers University.
+* **Jan. 2026**: Welcome Miaomiao Feng, who joins our group as a new Ph.D. student!
+* **Jan. 2026**: Dr. Wang was selected as an **RPI-BNL Visiting Faculty Fellow** for 2026.
 * **Nov. 2025**: Our group received the **IBM-RPI Future of Computing Research Collaboration (FCRC) Grant**. Congratulations! 
 * **Oct. 2025**: Ph.D. students Jiayu Liu, Junfeng Wu, and Yue Zhao presented their research works at INFORMS Annual Meeting 2025 in Atlanta!
-* **June 2025**: Ph.D. student Junfeng Wu will present his research work at MSEC 2025 in Greenville, South Carolina!
-* **June 2025**: Ph.D. students Jiayu Liu and Yue Zhao will present their research works at IISE Annual Conference 2025 in Atlanta!
-* **May 2025**: Our group received the **IBM-RPI Future of Computing Research Collaboration (FCRC) Grant**. Congratulations! 
-* **May 2025**: Ph.D. students Jiayu Liu and Yue Zhao are selected as recipients of the **NSF Student Travel Grant**  to participate in the IISE Annual Conference 2025 in Atlanta. Congratulations! We appreciate the support from IISE and NSF!
-* **April 2025**: Our research work [ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems](https://ieeexplore.ieee.org/abstract/document/10994334) is accepted by *IEEE Transactions on Automation Science and Engineering (T-ASE)*! This work is led by Ph.D. student Yue Zhao. Congratulations!
-* **Jan. 2025**: Our research work [Uni-3DAD: Gan-inversion aided universal 3D anomaly detection on model-free products](https://www.sciencedirect.com/science/article/pii/S0957417425002878) is accepted by *Expert Systems with Applications (ESWA)*! This work is led by Ph.D. student Jiayu Liu. Congratulations!
-* **Jan. 2025**: Ph.D. student Jiayu Liu is selected as the Student Board Member at the IISE DAIS Division. Congratulations!
-* **Nov. 2024**: Dr. Wang is selected to participate NSF Workshop on Data-driven Modeling and Prediction of Rare and Extreme Events hosted by Institute for Mathematical and Statistical Innovation (IMSI) at University of Chicago.
-* **Oct. 2024**: Our group received the **IBM-RPI Future of Computing Research Collaboration (FCRC) Grant**. Congratulations! 
-* **Oct. 2024**: Ph.D. students Jiayu Liu, Junfeng Wu, and Yue Zhao presented their research works at INFORMS Annual Meeting 2024 in Seattle!
-* **July 2024**: Ph.D. student Yue Zhao is selected to participate the Graduate Student Pilot Program hosted by NSF CMMI Game Changer Academy. Congratulations!
-* **August 2024** Ph.D. student Junfeng Wu passed the Doctoral Qualify Exam. Congratulations!
-* **April 2024** Ph.D. student Yue Zhao passed the Doctoral Qualify Exam. Congratulations!
-* **April 2024** Ph.D. student Jiayu Liu passed the Doctoral Qualify Exam. Congratulations!
-* **Feb. 2024** Dr. Wang is selected as the Scialog Fellow on [Automating Chemical Laboratories (AUT)](https://rescorp.org/scialog/automating-chemical-laboratories/) by Research Corporation for Science and Advancement (RCSA). Congratulations!
-* **Jan. 2024** Dr. Wang is elected as the Program Chair of ISA (International Society of Automation) ACARD (Automatic Controls and Robotics Division) 2024 Executive Board. Congratulations!
+* **Sep. 2025**: Our group is part of the **DOE** project *Toward Higher Brightness and Polarization of Hadron Beams: Digital-Twin-based Control of BNL's Hadron Accelerator Chain*, led by Dr. Georg Hoffstaetter (PI), with Dr. Wang serving as Co-PI. We appreciate the support from DOE!
