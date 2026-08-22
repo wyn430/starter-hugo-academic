@@ -9,6 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Order in People widget
+weight: 4
+
 # Role/position
 role: Ph.D. Students
 
