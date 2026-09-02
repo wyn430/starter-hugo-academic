@@ -10,7 +10,6 @@ title: Previous Students
 ## Undergraduate Research Assistants
 
 * **Gabriel Dacunha**, *Deep-learning-based Object Detection and Tracking in Manufacturing Systems*, Spring 2026
-* **Junning Sun**, *LLM-assisted Reinforcement Learning for Multi-stage Assembly*, Fall 2025
 * **Marcus Chan**, *LLM-assisted Reinforcement Learning for Advanced Manufacturing*, Spring – Summer 2025
 * **Aditya Dhodapkar**, *Intelligent Fine-tuning for Multimodal Foundation Models*, Fall 2024. Recipient of the Jo Anne and David Kelch '60 Undergraduate Research Award, School of Engineering, RPI (2025)
 * **Na'sir Miller**, *Intelligent Fine-tuning for Multimodal Foundation Models*, Summer 2024

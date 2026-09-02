@@ -14,7 +14,7 @@ content:
     - Current Ph.D. Students
     - Ph.D. Students
     - Undergraduate Students
-    - MS Students
+    - M.S. Students
     - Graduated Ph.D. Students
     - Graduated MS Students
 design:
