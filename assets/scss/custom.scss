@@ -7,7 +7,7 @@
   gap: 1.5rem;
   margin-top: 1rem;
 
-  a {
+  span {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,11 +16,6 @@
     background: #fff;
     border: 1px solid rgba(0, 0, 0, 0.08);
     border-radius: 8px;
-    transition: box-shadow 0.2s ease;
-
-    &:hover {
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
-    }
   }
 
   img {

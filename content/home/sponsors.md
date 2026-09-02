@@ -13,9 +13,9 @@ subtitle = "We gratefully acknowledge the support of our research from the follo
 +++
 
 <div class="sponsor-logos">
-  <a href="https://www.nsf.gov/" target="_blank" rel="noopener"><img src="/media/sponsors/NSF.png" alt="National Science Foundation"></a>
-  <a href="https://www.energy.gov/" target="_blank" rel="noopener"><img src="/media/sponsors/DOE.png" alt="U.S. Department of Energy"></a>
-  <a href="https://www.bnl.gov/" target="_blank" rel="noopener"><img src="/media/sponsors/BNL.png" alt="Brookhaven National Laboratory"></a>
-  <a href="https://research.ibm.com/" target="_blank" rel="noopener"><img src="/media/sponsors/IBM.png" alt="IBM Research"></a>
-  <a href="https://esd.ny.gov/" target="_blank" rel="noopener"><img src="/media/sponsors/NYS.png" alt="New York State Empire State Development"></a>
+  <span><img src="/media/sponsors/NSF.png" alt="National Science Foundation"></span>
+  <span><img src="/media/sponsors/DOE.png" alt="U.S. Department of Energy"></span>
+  <span><img src="/media/sponsors/BNL.png" alt="Brookhaven National Laboratory"></span>
+  <span><img src="/media/sponsors/IBM.png" alt="IBM Research"></span>
+  <span><img src="/media/sponsors/NYS.png" alt="New York State Empire State Development"></span>
 </div>
