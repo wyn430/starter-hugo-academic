@@ -3,6 +3,7 @@ widget: people
 headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 title: Group
+subtitle: '[Previous Students>>](./previousstudents)'
 weight: 60
 
 content:
