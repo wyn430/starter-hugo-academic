@@ -6,6 +6,7 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>](./allnews)"
 +++
+* **Sep. 2026**: Our research work *SparseST: Exploiting Data Sparsity in Spatiotemporal Modeling and Prediction* is accepted by *IEEE Transactions on Automation Science and Engineering (T-ASE)*! This work is led by Ph.D. student Junfeng Wu. Congratulations!
 * **Aug. 2026**: Welcome Alexander Sapronov, who joins our group as a new Ph.D. student!
 * **July 2026**: Our group received an **NSF CSSI (Cyberinfrastructure for Sustained Scientific Innovation) Elements** award for the collaborative project [Data-Agent: Agentic AI for Autonomous Data Quality Evaluation, Curation, and Task-Aware Dataset Design for Vision-Based Industrial Inspection](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2608819), in collaboration with Dr. Shancong Mou and Dr. Zirui Liu at the University of Minnesota. Dr. Wang serves as the RPI PI. We appreciate the support from NSF!
 * **July 2026**: Our group received a grant from the **RPI Teaching and Learning Collaboratory** for the project *AI-Driven Scenario-Based Simulation for Communication Skills Training in Semiconductor Manufacturing*, with Dr. Wang as PI and Dr. Helen Zhou and Dr. Muhsin Celik as Co-PIs.
