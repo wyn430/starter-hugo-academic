@@ -26,3 +26,15 @@
     object-fit: contain;
   }
 }
+
+// Visitor map in the footer (layouts/partials/hooks/footer.html)
+.visitor-map {
+  text-align: center;
+  margin: 0 auto 1.5rem;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+  }
+}
