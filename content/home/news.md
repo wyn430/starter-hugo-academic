@@ -6,6 +6,7 @@ weight = 26  # Order that this section will appear.
 title = "News"
 subtitle = "[All News>>](./allnews)"
 +++
+* **Nov. 2026**: Our group received a new **IBM-RPI Future of Computing Research Collaboration (FCRC) Grant**. Congratulations!
 * **Sep. 2026**: Our research work *Quantum Safe-Set Bayesian Optimization for Quality Improvement in Fuselage Assembly* is accepted by *IISE Transactions* and selected as a **Finalist for the 2026 INFORMS QSR Best Student Paper Competition**! This work is led by Ph.D. student Jiayu Liu, in collaboration with Dr. Chong Liu and Dr. Trevor David Rhone, and supported by the IBM-RPI Future of Computing Research Collaboration (FCRC). Congratulations!
 * **Sep. 2026**: Our research work *SparseST: Exploiting Data Sparsity in Spatiotemporal Modeling and Prediction* is accepted by *IEEE Transactions on Automation Science and Engineering (T-ASE)*! This work is led by Ph.D. student Junfeng Wu. Congratulations!
 * **Aug. 2026**: Welcome Alexander Sapronov, who joins our group as a new Ph.D. student!
@@ -20,5 +21,3 @@ subtitle = "[All News>>](./allnews)"
 * **Jan. 2026**: Welcome Miaomiao Feng, who joins our group as a new Ph.D. student!
 * **Jan. 2026**: Dr. Wang was selected as an **RPI-BNL Visiting Faculty Fellow** for 2026.
 * **Nov. 2025**: Our group received the **IBM-RPI Future of Computing Research Collaboration (FCRC) Grant**. Congratulations! 
-* **Oct. 2025**: Ph.D. students Jiayu Liu, Junfeng Wu, and Yue Zhao presented their research works at INFORMS Annual Meeting 2025 in Atlanta!
-* **Sep. 2025**: Our group is part of the **DOE** project *Toward Higher Brightness and Polarization of Hadron Beams: Digital-Twin-based Control of BNL's Hadron Accelerator Chain*, led by Dr. Georg Hoffstaetter (PI), with Dr. Wang serving as Co-PI. We appreciate the support from DOE!

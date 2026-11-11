@@ -1,3 +1,4 @@
+* **Nov. 2026**: Our group received a new **IBM-RPI Future of Computing Research Collaboration (FCRC) Grant**. Congratulations!
 * **Sep. 2026**: Our research work *Quantum Safe-Set Bayesian Optimization for Quality Improvement in Fuselage Assembly* is accepted by *IISE Transactions* and selected as a **Finalist for the 2026 INFORMS QSR Best Student Paper Competition**! This work is led by Ph.D. student Jiayu Liu, in collaboration with Dr. Chong Liu and Dr. Trevor David Rhone, and supported by the IBM-RPI Future of Computing Research Collaboration (FCRC). Congratulations!
 * **Sep. 2026**: Our research work *SparseST: Exploiting Data Sparsity in Spatiotemporal Modeling and Prediction* is accepted by *IEEE Transactions on Automation Science and Engineering (T-ASE)*! This work is led by Ph.D. student Junfeng Wu. Congratulations!
 * **Aug. 2026**: Welcome Alexander Sapronov, who joins our group as a new Ph.D. student!
